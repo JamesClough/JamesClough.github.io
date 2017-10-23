@@ -9,16 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
+Work Experience
+======
+* June 2017 - Present: Research Associate (Machine Learning)
+  * King's College London
+  * Motion Modelling and Analysis Group, School of Biomedical Engineering & Imaging Sciences
+
 Education
 ======
 * Ph.D in Physics, Imperial College London, 2017
 * MSci in Theoretical Physics, Imperial College London, 2013
 
-Work experience
-======
-* June 2017 - Present: Research Associate (Machine Learning)
-  * King's College London
-  * Motion Modelling and Analysis Group, School of Biomedical Engineering & Imaging Sciences
 
 Publications
 ======
@@ -26,11 +27,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
 
 Teaching
 ======
