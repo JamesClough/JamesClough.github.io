@@ -33,3 +33,8 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Awards
+======
+Winner of Faculty of Natural Sciences Prize for Excellence in Teaching (2016, Imperial College London)
+Winner of the Data Science Institute 2014 Data Challenge.
