@@ -8,21 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Associate in Machine Learning at King's College London, working in
-the School of Biomedical Engineering and Imaging Sciences. My current work,
-in the [MMAG](http://kclmmag.org/) (Motion Modelling and Analysis Group) looks at
-how manifold learning, and manifold alignment, together with tools from spectral
-graph theory can be used to understand motion in high-dimensional datasets such
-as those found in medical imaging.
+I am a Research Associate in Machine Learning at King's College London, working in the School of Biomedical Engineering and Imaging Sciences as part of the [Motion Modelling and Analysis Group](http://kclmmag.org/).
+My current work, as part of the [SmartHeart](https://wp.doc.ic.ac.uk/smartheart/aims/) project involves using machine learning to integrate cardiac MR data with clinical reports, demographic information and other patient data as part of the MR imaging pipeline to improve diagnosis.
+I am interested training neural networks to extract clinically relevant information from noisy datasets, improving the interpretability of machine learning in medicine, and in image denoising and reconstruction.
 
-During my Physics PhD at Imperial College London, in the Centre for Complexity Science
-my research focused on using ideas from physics, particularly from the
-causal set approach to quantum gravity, to understand the structure complex networks.
-This involved developing tools to describe network structure in terms of
-Lorentzian geometry, which is the geometry of the spacetime of our universe.
-I also have an interest in using non-Euclidean geometries in machine learning,
-such as using Hyperbolic space, or Minkowski spacetime to embed high-dimensional
-data, or network/graph data.
+During my Physics PhD at Imperial College London, in the Centre for Complexity Science my research focused on using ideas from physics, particularly from the causal set approach to quantum gravity, to understand the structure of complex networks.
+This involved developing tools to describe network structure in terms of Lorentzian geometry, which is the geometry of the spacetime of our universe.
+I also have an interest in using non-Euclidean geometries in machine learning, such as using Hyperbolic space, or Minkowski spacetime to embed high-dimensional data, or network/graph data.
 
 
 ------
